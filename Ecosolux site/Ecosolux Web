@@ -14,16 +14,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    h1 {
-        background-color: palegreen;
-        color: black;
-        font-size: 24px;
-        }
-    p {
-        color: black;
-        font-size: 12px;
-        background-color: #7CFC00;
-    }
+    <style>
+        .Titulo
+            {
+                font-size: large;
+                background-color: blanchedalmond;
+            }
+        .Corpo
+            {
+                font-size: medium;
+                background-color: blanchedalmond;
+
+
+            }
+    </style>
 </head>
 <body>
     <h1>Apresentaçao Ecosolux</h1>
