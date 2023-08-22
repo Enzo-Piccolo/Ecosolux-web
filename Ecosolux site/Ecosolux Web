@@ -18,14 +18,15 @@
         .Titulo
             {
                 font-size: large;
-                background-color: blanchedalmond;
+                font-family: fantasy;
+                background-color: #188800;
             }
         .Corpo
             {
                 font-size: medium;
-                background-color: blanchedalmond;
-
-
+                text-align: center;
+                line-height: 1.5;
+                background-color: #188800;
             }
     </style>
 </head>
@@ -34,7 +35,7 @@
     <p>A Ecosolux Soluções Inteligentes é especialista em proporcionar instalações e vendas de produtos SMART. Nossa missão é levar o lar autonomo para a vida dos brasileiros, oferecendo tecnologias inovadoras que tornam a rotina mais prática e conectada. Comunicando-se via aplicativo celular, nossos produtos proporcionam comodidade e controle total, desde o monitoramento por câmeras até a mudança de cor das fitas de LED.
     </p>
     <img src="" alt="">
->>>>>>> d0b8b57e3253c19dafe6a62e01985fd8ce216589
+>>>>>>> d0b8b57e3253c19dafe6a62e01985fd8ce216589 <!- O que é isso? -->
 </body>
 <<<<<<< HEAD
 
